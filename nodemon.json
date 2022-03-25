@@ -1,0 +1,9 @@
+{
+  "ignore": [".git", "node_modules", "dist"],
+  "verbose": true,
+  "watch": ["src/**/*.js"],
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "ext": "js,json"
+}
